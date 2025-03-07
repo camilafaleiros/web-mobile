@@ -223,7 +223,7 @@ footer {
   z-index: 500;
 }
 
-/* Estilo dos balões de comentário - aumentado */
+/* Estilo dos balões de comentário */
 .comment-bubble {
   position: absolute;
   background: #fff;
